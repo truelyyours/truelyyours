@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello There!
 
+- 🔭 I’m currently working at JioSaavn as a Software Engineer (Android). Leading a fantastic project introducing JioSaavn for infotainment devices in India!
+- 🌱 I’m rooting hard and grinding harder with Hilega Milega and BB Trap strategies while looking forward to fire and forget 🥴!
+- 💬 Ask me if it is more fun to trek on a new trail without a guide or climb a 20ft tree without shoes 🙃?
+- 📫 How to reach me: Use the public email or LinkedIn
 <!--
 **truelyyours/truelyyours** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
