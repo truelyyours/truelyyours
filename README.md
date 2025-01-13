@@ -1,7 +1,7 @@
 ### Hello There!
 
-- 🔭 I work at JioSaavn as a Software Engineer (Android). Leading a fantastic project introducing JioSaavn for infotainment devices in India!
-- 🌱 I’m rooting hard and grinding harder with Hilega Milega and BB Trap strategies while looking forward to fire and forget 🥴!
+- 🔭 currently pursuing a Master's in Cybersecurity Analytics and Operations at Penn State Univ. Have 3 years of experience as Senior Software Engineer in Android development.
+- 🌱 I’m rooting hard and grinding harder with Hilega Milega and Weekly Basket strategies while looking forward to fire and forget 🥴!
 - 💬 Ask me if it is more fun to trek on a new trail without a guide or climb a 20ft tree without shoes 🙃?
 - 📫 How to reach me: Use the public email or LinkedIn
 <!--
